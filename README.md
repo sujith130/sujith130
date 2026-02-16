@@ -4,7 +4,7 @@
 
 ### 
 
-<img src="https://res.cloudinary.com/cocoder/image/upload/v1737403412/Coding-gif/fbc6f31bd3b841594470b973aca7e0f97_jqykwv.gif" width="480" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
 
 ### 
 
@@ -23,3 +23,4 @@
 ### 
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,express,androidstudio,firebase,mysql,postgres,git,docker,aws,figma" />
+
